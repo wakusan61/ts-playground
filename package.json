@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "i18next": "^23.7.18",
+    "ts-node": "^10.9.2",
+    "typecript": "^0.0.1-security",
+    "zod-i18n-map": "^2.25.0"
+  }
+}
